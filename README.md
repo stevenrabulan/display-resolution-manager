@@ -23,8 +23,11 @@ chmod +x displayresolution
 (Add to $PATH)
 
 ## Author
-Steven Rabulan - stevenrabulan.com
+Steven Rabulan - [stevenrabulan.com](https://stevenrabulan.com)
 
 ## License
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## References
+Inspired by [screenresolution](https://github.com/jhford/screenresolution) by jhford
