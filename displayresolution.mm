@@ -3,11 +3,6 @@ displayresolution.mm
 Author: Steven Rabulan
 Website: https://stevenrabulan.com
 Inspired by screenresolution by jhford: https://github.com/jhford/screenresolution
-Based on newscreen
-   Created by Jeffrey Osterman on 10/30/07.
-   Copyright 2007 Jeffrey Osterman. All rights reserved. 
-   PROVIDED AS IS AND WITH NO WARRANTIES WHATSOEVER
-   http://forums.macosxhints.com/showthread.php?t=59575
 COMPILE:
    c++ -std=c++17 displayresolution.mm -framework ApplicationServices -o displayresolution
    chmod +x displayresolution
