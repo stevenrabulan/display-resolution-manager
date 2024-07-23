@@ -1,6 +1,6 @@
 # display-resolution-manager
 
-A command-line tool to manage and change display resolutions for multiple monitors on macOS. Supports resolutions in the format "1728x1117" and allows skipping specific monitors.
+A command-line tool to manage and change display resolutions for multiple monitors on macOS (working on MacOS Sonoma 14.5 as of now). Gets and sets resolutions in the format "1728x1117" and allows skipping specific monitors in a multi-monitor setup.
 
 ## Installation
 1. Compilation (requires xcode command line tools):
